@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor apaixonado por resolver problemas reais conectando **Engenharia de Software** e **Inteligência Artificial**. Atualmente, foco em construir aplicações web modernas e implementar modelos de Machine Learning para análise de dados.
 
-- 🚀 Estudando **Arquitetura de Software e Deep Learning**
+- 🚀 Estudando **Arquitetura de Software e Machine Learning**
 - 🎯 Objetivo: **Estágio em Desenvolvimento de Software / Dados**
 
 ---
