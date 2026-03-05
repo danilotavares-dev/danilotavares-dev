@@ -1,11 +1,11 @@
 # Olá, eu sou o Danilo Tavares! 👋
 
-### 🎓 Graduando em Engenharia de Software | FullStack & AI Developer
+### Graduando em Engenharia de Software | FullStack & AI Developer
 
 Sou um desenvolvedor apaixonado por resolver problemas reais conectando **Engenharia de Software** e **Inteligência Artificial**. Atualmente, foco em construir aplicações web modernas e implementar modelos de Machine Learning para análise de dados.
 
-- 🚀 Estudando **Arquitetura de Software e Machine Learning**
-- 🎯 Objetivo: **Estágio em Desenvolvimento de Software / Dados**
+- Estudando **Arquitetura de Software e Machine Learning**
+- Objetivo: **Estágio em Desenvolvimento de Software / Dados**
 
 ---
 
