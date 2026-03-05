@@ -27,5 +27,6 @@ Sou um desenvolvedor apaixonado por resolver problemas reais conectando **Engenh
 ### Contato
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/danilotavares-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:danilotavares070@gmail.com"><img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/danilotavares-dev" target="_blank"><img width="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:danilotavares070@gmail.com"><img width="40" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 </div>
