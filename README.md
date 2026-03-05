@@ -9,7 +9,7 @@ Sou um desenvolvedor apaixonado por resolver problemas reais conectando **Engenh
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -43,7 +43,7 @@ Sou um desenvolvedor apaixonado por resolver problemas reais conectando **Engenh
 
 ---
 
-### 📫 Contato
+### Contato
 
 <div align="left">
   <a href="https://www.linkedin.com/in/danilotavares-dev" target="_blank">
