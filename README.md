@@ -1,4 +1,4 @@
-# Olá, eu sou o Danilo Tavares! 👋
+# Olá, eu sou o Danilo Tavares!
 
 ### Graduando em Engenharia de Software | FullStack & AI Developer
 
