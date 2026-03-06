@@ -40,4 +40,4 @@ I'm a developer passionate about solving real-world problems by connecting **Sof
 </div>
 <br><br>
 
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/danilotavares-dev/danilotavares-dev/output/pacman-contribution-graph.svg)
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/danilotavares-dev/danilotavares-dev/output/pacman-contribution-graph-dark.svg)
