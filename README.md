@@ -1,9 +1,9 @@
 # Hi, I'm Danilo Tavares! 👋
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/danilotavares-dev" target="_blank"><img width="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:danilotavares070@gmail.com"><img width="40" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/danilotavares-dev" target="_blank" rel="noopener noreferrer"><img width="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:danilotavares070@gmail.com" target="_blank" rel="noopener noreferrer"><img width="40" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+</p>
 
 
 ### Software Engineering Student | Full-Stack & AI Developer
@@ -28,13 +28,13 @@ I'm a developer passionate about solving real-world problems by connecting **Sof
 ### Tech Stack
 
 <div align="left">
-  <a href="https://www.python.org/" target="_blank"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" /></a>
-  <a href="https://react.dev/" target="_blank"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" /></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" /></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" /></a>
 </div>
