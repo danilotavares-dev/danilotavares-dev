@@ -16,6 +16,7 @@ I'm a developer passionate about solving real-world problems by connecting **Sof
   <summary><b>🇧🇷 Leia em Português</b></summary>
   <br>
   Sou um desenvolvedor apaixonado por resolver problemas reais conectando <b>Engenharia de Software</b> e <b>Inteligência Artificial</b>. Atualmente, foco em construir aplicações web modernas e implementar modelos de Machine Learning para análise de dados.
+  <br><br>
   <ul>
     <li>Estudando: <b>Arquitetura de Software e Machine Learning</b></li>
     <li>Objetivo: <b>Estágio em Desenvolvimento de Software / Dados</b></li>
