@@ -40,4 +40,8 @@ I'm a developer passionate about solving real-world problems by connecting **Sof
 </div>
 <br><br>
 
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/danilotavares-dev/danilotavares-dev/output/pacman-contribution-graph-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danilotavares-dev/danilotavares-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danilotavares-dev/danilotavares-dev/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/danilotavares-dev/danilotavares-dev/output/pacman-contribution-graph.svg">
+</picture>
