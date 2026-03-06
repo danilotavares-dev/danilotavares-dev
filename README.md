@@ -38,3 +38,6 @@ I'm a developer passionate about solving real-world problems by connecting **Sof
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" /></a>
 </div>
+<br><br>
+
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/danilotavares-dev/danilotavares-dev/output/pacman-contribution-graph.svg)
