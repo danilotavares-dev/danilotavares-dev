@@ -12,7 +12,7 @@ I'm a developer passionate about solving real-world problems by connecting **Sof
 - Currently studying: **Software Architecture and Machine Learning**
 - Goal: **Software Development / Data Science Internship**
 
-### Featured Work: @nilo
+### Featured Work: NILO
 I founded the **[@nilo](https://github.com/nilo-labs)** organization to centralize my most robust and complex projects. If you want to see my main work involving Backend, Full-Stack development, and AI, please check out the repositories there!
 
 <details>
