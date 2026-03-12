@@ -12,8 +12,8 @@ I'm a developer passionate about solving real-world problems by connecting **Sof
 - Currently studying: **Software Architecture and Machine Learning**
 - Goal: **Software Development / Data Science Internship**
 
-### Featured Work: Nellow Labs
-I founded the **[@Nellow Labs](https://github.com/nellow-labs)** organization to centralize my most robust and complex projects. If you want to see my main work involving Backend, Full-Stack development, and AI, please check out the repositories there!
+### Featured Work: Nilo Labs
+I founded the **[@Nilo Labs](https://github.com/nilo-labs)** organization to centralize my most robust and complex projects. If you want to see my main work involving Backend, Full-Stack development, and AI, please check out the repositories there!
 
 <details>
   <summary><b>🇧🇷 Leia em Português</b></summary>
@@ -25,7 +25,7 @@ I founded the **[@Nellow Labs](https://github.com/nellow-labs)** organization to
     <li>Objetivo: <b>Estágio em Desenvolvimento de Software / Dados</b></li>
   </ul>
 
-  Fundei a organização <b><a href="https://github.com/nellow-labs">@Nellow Labs</a></b> para centralizar meus projetos mais robustos e complexos. Se você quiser ver meus principais trabalhos envolvendo Backend, Full-Stack e IA, dê uma olhada nos repositórios por lá!
+  Fundei a organização <b><a href="https://github.com/nilo-labs">@Nilo Labs</a></b> para centralizar meus projetos mais robustos e complexos. Se você quiser ver meus principais trabalhos envolvendo Backend, Full-Stack e IA, dê uma olhada nos repositórios por lá!
 </details>
 
 ---
