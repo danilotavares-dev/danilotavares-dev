@@ -37,7 +37,6 @@ I founded the **[Nilo Labs](https://github.com/nilo-labs)** organization to cent
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" /></a>
   <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" /></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" /></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" /></a>
