@@ -12,20 +12,24 @@ I'm a developer passionate about solving real-world problems by connecting **Sof
 - Currently studying: **Software Architecture and Machine Learning**
 - Goal: **Software Development / Data Science Internship**
 
-### Featured Work: Nilo Labs
-I founded the **[Nilo Labs](https://github.com/nilo-labs)** organization to centralize my most robust and complex projects. If you want to see my main work involving Backend, Full-Stack development, and AI, please check out the repositories there!
+### Nilo Labs
+I founded the **[Nilo Labs](https://github.com/nilo-labs)** organization focused on 
+Research & Development — exploring new technologies and advancing experimental projects.
 
 <details>
   <summary><b>🇧🇷 Leia em Português</b></summary>
   <br>
-  Sou um desenvolvedor apaixonado por resolver problemas reais conectando <b>Engenharia de Software</b> e <b>Inteligência Artificial</b>. Atualmente, foco em construir aplicações web modernas e implementar modelos de Machine Learning para análise de dados.
+  Sou um desenvolvedor apaixonado por resolver problemas reais conectando <b>Engenharia 
+  de Software</b> e <b>Inteligência Artificial</b>. Atualmente, foco em construir 
+  aplicações web modernas e implementar modelos de Machine Learning para análise de dados.
   <br><br>
   <ul>
     <li>Estudando: <b>Arquitetura de Software e Machine Learning</b></li>
     <li>Objetivo: <b>Estágio em Desenvolvimento de Software / Dados</b></li>
   </ul>
-
-  Fundei a organização <b><a href="https://github.com/nilo-labs">Nilo Labs</a></b> para centralizar meus projetos mais robustos e complexos. Se você quiser ver meus principais trabalhos envolvendo Backend, Full-Stack e IA, dê uma olhada nos repositórios por lá!
+  Fundei a organização <b><a href="https://github.com/nilo-labs">Nilo Labs</a></b> com 
+  foco em Pesquisa e Desenvolvimento — explorando novas tecnologias e avançando 
+  projetos experimentais.
 </details>
 
 ---
