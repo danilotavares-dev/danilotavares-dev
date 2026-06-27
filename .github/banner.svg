@@ -1,0 +1,83 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <title>Danilo Tavares — black hole banner</title>
+  <defs>
+    <style>
+      @keyframes spin1{from{transform:rotate(0deg) translateX(70px) translateY(0) rotate(0deg)}to{transform:rotate(360deg) translateX(70px) translateY(0) rotate(-360deg)}}
+      @keyframes spin2{from{transform:rotate(120deg) translateX(100px) translateY(0) rotate(-120deg)}to{transform:rotate(480deg) translateX(100px) translateY(0) rotate(-480deg)}}
+      @keyframes spin3{from{transform:rotate(240deg) translateX(130px) translateY(0) rotate(-240deg)}to{transform:rotate(600deg) translateX(130px) rotate(-600deg)}}
+      @keyframes spin4{from{transform:rotate(60deg) translateX(85px) rotate(-60deg)}to{transform:rotate(420deg) translateX(85px) rotate(-420deg)}}
+      @keyframes spin5{from{transform:rotate(200deg) translateX(115px) rotate(-200deg)}to{transform:rotate(560deg) translateX(115px) rotate(-560deg)}}
+      @keyframes twk{0%,100%{opacity:.15}50%{opacity:.8}}
+      @keyframes twk2{0%,100%{opacity:.5}50%{opacity:.1}}
+      @keyframes halo{0%,100%{opacity:.06}50%{opacity:.14}}
+      .d1{transform-origin:140px 140px;animation:spin1 8s linear infinite}
+      .d2{transform-origin:140px 140px;animation:spin2 12s linear infinite}
+      .d3{transform-origin:140px 140px;animation:spin3 18s linear infinite}
+      .d4{transform-origin:140px 140px;animation:spin4 10s linear infinite}
+      .d5{transform-origin:140px 140px;animation:spin5 15s linear infinite}
+    </style>
+    <clipPath id="bh"><circle cx="140" cy="140" r="50"/></clipPath>
+    <clipPath id="bh2"><ellipse cx="140" cy="140" rx="50" ry="19"/></clipPath>
+  </defs>
+
+  <rect width="900" height="280" fill="#04060d"/>
+
+  <!-- Stars -->
+  <circle cx="310" cy="28" r="1"   fill="#b8d0f0" style="animation:twk  3.2s ease-in-out infinite"/>
+  <circle cx="440" cy="52" r=".8"  fill="#b8d0f0" style="animation:twk2 4.8s ease-in-out infinite 1s"/>
+  <circle cx="570" cy="20" r="1.1" fill="#b8d0f0" style="animation:twk  2.9s ease-in-out infinite .5s"/>
+  <circle cx="660" cy="60" r=".7"  fill="#b8d0f0" style="animation:twk2 5.4s ease-in-out infinite 2s"/>
+  <circle cx="750" cy="35" r="1"   fill="#b8d0f0" style="animation:twk  4s ease-in-out infinite .3s"/>
+  <circle cx="820" cy="85" r=".8"  fill="#b8d0f0" style="animation:twk2 3.6s ease-in-out infinite 1.5s"/>
+  <circle cx="870" cy="30" r=".6"  fill="#90b8e8" style="animation:twk  6.1s ease-in-out infinite"/>
+  <circle cx="500" cy="140" r=".9" fill="#b8d0f0" style="animation:twk2 3.4s ease-in-out infinite 2.5s"/>
+  <circle cx="680" cy="130" r=".7" fill="#b8d0f0" style="animation:twk  4.6s ease-in-out infinite .8s"/>
+  <circle cx="800" cy="165" r="1"  fill="#90b8e8" style="animation:twk2 5.7s ease-in-out infinite 1.2s"/>
+  <circle cx="380" cy="190" r=".8" fill="#b8d0f0" style="animation:twk  3.3s ease-in-out infinite .6s"/>
+  <circle cx="880" cy="200" r=".6" fill="#b8d0f0" style="animation:twk2 5s ease-in-out infinite 1.8s"/>
+  <circle cx="290" cy="120" r=".7" fill="#90b8e8" style="animation:twk  3.8s ease-in-out infinite 2.2s"/>
+  <circle cx="420" cy="240" r=".9" fill="#b8d0f0" style="animation:twk2 4.2s ease-in-out infinite .4s"/>
+  <circle cx="610" cy="220" r=".7" fill="#b8d0f0" style="animation:twk  5.1s ease-in-out infinite 1.6s"/>
+  <circle cx="760" cy="248" r="1"  fill="#90b8e8" style="animation:twk2 3.9s ease-in-out infinite .9s"/>
+
+  <!-- Disk back half (behind BH) -->
+  <ellipse cx="140" cy="140" rx="130" ry="19" fill="none" stroke="#3a1800" stroke-width="6" opacity=".4"/>
+  <ellipse cx="140" cy="140" rx="100" ry="14" fill="none" stroke="#5a2800" stroke-width="5" opacity=".5"/>
+  <ellipse cx="140" cy="140" rx="75" ry="10" fill="none" stroke="#7a3a00" stroke-width="4" opacity=".5"/>
+
+  <!-- Orbiting particles -->
+  <g class="d1"><circle cx="140" cy="140" r="2.5" fill="#d06020"/></g>
+  <g class="d2"><circle cx="140" cy="140" r="2"   fill="#c05010"/></g>
+  <g class="d3"><circle cx="140" cy="140" r="1.8" fill="#e08030"/></g>
+  <g class="d4"><circle cx="140" cy="140" r="2.2" fill="#b04010"/></g>
+  <g class="d5"><circle cx="140" cy="140" r="1.5" fill="#d07020"/></g>
+
+  <!-- Black hole -->
+  <circle cx="140" cy="140" r="50" fill="#04060d"/>
+
+  <!-- Disk front half (in front of BH) -->
+  <ellipse cx="140" cy="140" rx="130" ry="19" fill="none" stroke="#5a2800" stroke-width="7" opacity=".5" clip-path="url(#bh2)" style="transform:scaleY(-1);transform-origin:140px 140px"/>
+  <path d="M10,140 Q140,121 270,140" fill="none" stroke="#7a3a10" stroke-width="8" opacity=".55"/>
+  <path d="M20,140 Q140,124 260,140" fill="none" stroke="#9a5020" stroke-width="5" opacity=".45"/>
+  <path d="M35,140 Q140,127 245,140" fill="none" stroke="#c07030" stroke-width="3" opacity=".4"/>
+
+  <!-- Photon ring -->
+  <circle cx="140" cy="140" r="52" fill="none" stroke="#e0a050" stroke-width=".8" opacity=".2"/>
+
+  <!-- Event horizon core -->
+  <circle cx="140" cy="140" r="50" fill="#04060d"/>
+  <circle cx="140" cy="140" r="48" fill="none" stroke="#1a0800" stroke-width="1" opacity=".5"/>
+
+  <!-- Text -->
+  <text x="300" y="104" font-family="'Segoe UI',system-ui,sans-serif" font-size="26" font-weight="600" fill="#dce8ff" letter-spacing=".4">Danilo Tavares</text>
+  <text x="300" y="128" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#2a4a70" letter-spacing="3">SOFTWARE ENGINEERING · FULL-STACK · AI</text>
+  <line x1="300" y1="142" x2="860" y2="142" stroke="#0a1828" stroke-width=".5"/>
+  <text x="300" y="163" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#2a4060">📍 Brasil</text>
+  <text x="390" y="163" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#2a4060">🏢 @nilo-labs</text>
+  <text x="498" y="163" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#2a4060">🌐 danilotavares-dev.github.io</text>
+  <text x="300" y="196" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1a3050" letter-spacing=".5">I'm a developer passionate about connecting</text>
+  <text x="300" y="214" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#3a6090" font-weight="500">Software Engineering</text>
+  <text x="446" y="214" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1a3050"> and </text>
+  <text x="478" y="214" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#3a6090" font-weight="500">Artificial Intelligence.</text>
+  <text x="300" y="248" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#112030" letter-spacing="1">EXPLORING NEW TECHNOLOGIES · NILO LABS R&amp;D</text>
+</svg>
