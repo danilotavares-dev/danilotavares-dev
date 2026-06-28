@@ -20,8 +20,9 @@ jobs:
           # Generates the SVGs for light and dark modes
           # We use a custom deep blue color palette to match your profile picture
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#1E3A8A
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#58A6FF
+            dist/github-contribution-grid-snake.svg?color_snake=#94A2BD&color_dots=#0D1117,#1B212A,#374150,#515C6B,#94A2BD
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#94A2BD&color_dots=#0D1117,#1B212A,#374150,#515C6B,#94A2BD
+
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
