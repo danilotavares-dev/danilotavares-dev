@@ -3,7 +3,7 @@
   <!-- Sophisticated gradient banner matching the profile picture's marble/oceanic tones -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0_0D1117,50_374150,100_94A2BD&height=200&section=header&text=Danilo%20Tavares&fontSize=50&fontAlignY=35&fontColor=C8D8E8&animation=fadeIn" alt="Header" />  
   
-  <h3>Software Engineering Student | Full-Stack & AI Developer</h3>
+  <h3>Software Engineering Student | AI Engineer</h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/danilotavares-dev" target="_blank">
