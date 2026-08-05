@@ -23,7 +23,6 @@ I am a developer who thrives at the intersection of **Software Engineering** and
 
 - 🎓 **Currently studying:** Software Architecture & Machine Learning.
 - 🎯 **Current Goal:** Securing a Software Development or Data Science Internship.
-- 🚀 **Founder:** [Nilo Labs](https://github.com/nilo-labs) — An R&D organization exploring cutting-edge tech and advancing experimental projects.
 
 <details>
 <summary><b>🇧🇷 Leia em Português (Click to expand)</b></summary>
@@ -32,7 +31,6 @@ Sou um desenvolvedor apaixonado por resolver problemas reais conectando <b>Engen
 
 * 🎓 **Estudando:** Arquitetura de Software e Machine Learning
 * 🎯 **Objetivo:** Estágio em Desenvolvimento de Software / Dados
-* 🚀 **Fundei a organização [Nilo Labs](https://github.com/nilo-labs):** com foco em Pesquisa e Desenvolvimento — explorando novas tecnologias e avançando projetos experimentais.
 </details>
 
 ---
