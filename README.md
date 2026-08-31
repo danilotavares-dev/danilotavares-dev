@@ -40,7 +40,7 @@ Sou um desenvolvedor apaixonado por resolver problemas reais conectando <b>Engen
 <br>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,java,nodejs,react,postgres,docker,git,linux&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,java,nodejs,react,postgres,docker,git&theme=dark" alt="Tech Stack" />
   </a>
 </div>
 <br>
