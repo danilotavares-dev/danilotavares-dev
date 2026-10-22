@@ -19,18 +19,20 @@
 
 ### About Me
 
-I am a developer who thrives at the intersection of **Software Engineering** and **Artificial Intelligence**. I focus on designing modern web applications and implementing Machine Learning models that transform data into actionable insights.
+I'm a Software Engineering undergraduate student passionate about building scalable, maintainable software and designing robust backend architectures. Focused on core computer science fundamentals, clean code practices, and end-to-end system reliability.
 
-- 🎓 **Currently studying:** Software Architecture & Machine Learning.
-- 🎯 **Current Goal:** Securing a Software Development or Data Science Internship.
+- 🔭 **Focus:** Software Engineering & Backend Systems.
+- 📚 **Currently studying:** Core Computer Science Fundamentals & System Design.
+- 🎯 **Goal:** Securing a Software Engineering Internship to build scalable products and grow alongside experienced teams.
 
 <details>
 <summary><b>🇧🇷 Leia em Português (Click to expand)</b></summary>
 <br>
-Sou um desenvolvedor apaixonado por resolver problemas reais conectando <b>Engenharia de Software</b> e <b>Inteligência Artificial</b>. Atualmente, foco em construir aplicações web modernas e implementar modelos de Machine Learning para análise de dados.
-
-* 🎓 **Estudando:** Arquitetura de Software e Machine Learning
-* 🎯 **Objetivo:** Estágio em Desenvolvimento de Software / Dados
+Estudante de Engenharia de Software focado no desenvolvimento de sistemas escaláveis, sustentáveis e na arquitetura de aplicações robustas. Meu foco é baseado em fundamentos sólidos de computação, boas práticas de código e confiabilidade de software de ponta a ponta.
+  
+- 🔭 **Foco:** Engenharia de Software e Sistemas de Backend.
+- 📚 **Estudos ativos:** Fundamentos de Ciência da Computação e Arquitetura de Sistemas.
+- 🎯 **Objetivo:** Oportunidade de estágio em Engenharia de Software para construir produtos escaláveis e evoluir com equipas de desenvolvimento.
 </details>
 
 ---
@@ -40,7 +42,7 @@ Sou um desenvolvedor apaixonado por resolver problemas reais conectando <b>Engen
 <br>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,java,spring,nodejs,react,postgres,docker,git&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,ts,js,py,spring,nodejs,react,postgres,docker,git&theme=dark" alt="Tech Stack" />
   </a>
 </div>
 <br>
